@@ -1,0 +1,4 @@
+*.ics
+.env
+cpanfile.snapshot
+local
