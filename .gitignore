@@ -1,4 +1,5 @@
 *.ics
 .env
+*.swp
 cpanfile.snapshot
 local
